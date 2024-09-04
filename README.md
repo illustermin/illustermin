@@ -1,16 +1,9 @@
 ## Hi there 👋🌱
-<div align="center">
-  <img src="https://github.com/illustermin/illustermin/edit/main/metrics.plugin.isocalender.fullyear.svg" />
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 오늘의 활동
+![Metrics](https://raw.githubusercontent.com/illustermin/illustermin/main/metrics.plugin.isocalendar.fullyear.svg)
 
-
-```
-
-<img src="https://raw.githubusercontent.com/Find-NICK/Find-NICK/main/src/followers.svg" />
-
-```
 
 
 
