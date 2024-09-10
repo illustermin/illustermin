@@ -63,12 +63,9 @@ I'm developer from Korea
 <div align=center><h3>Contact📮</h3></div>
 <p align=center>* If you press it, you'll be connected right away.</p>
 
-<span align=center>
-    <div align=center>
-  <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> 
-        <a href="https://www.instagram.com/h_min.___/">
-  </a></div>
-</span>
+<div align=center>
+  <a href="https://www.instagram.com/h_min.___" target="_blank"><img src="https://img.shields.io/badge/h_min.___-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</div>
 
 
 
