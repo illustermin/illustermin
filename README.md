@@ -41,10 +41,6 @@ I'm developer from Korea
 
 ![Metrics](https://raw.githubusercontent.com/illustermin/illustermin/main/metrics.plugin.isocalendar.fullyear.svg)
 
-<img src="https://ghchart.rshah.org/illustermin" />
-<Chart src="https://ghchart.rshah.org/33333/illustermin" />
-
-
 
 <br/> <br/> 
 <div align=center><h3>Contact</h3></div>
