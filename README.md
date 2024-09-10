@@ -1,17 +1,17 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Mono+One&size=50&duration=4000&pause=1000&color=000000&center=true&repeat=false&width=1000&height=70&lines=Hello+I'm+Minju)](https://git.io/typing-svg)
+<br/> <br/> 
 Welcome to my page!
 I'm developer from Korea
 
-
+<br/> 
 <div align=center><h3>About me 👋</h3></div>
   <p align=center>
     안녕하세요
   </p>
 
-
-
+<br/> <br/> 
 <div align=center><h3>Main Stack🌱</h3></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -29,12 +29,13 @@ I'm developer from Korea
 
 
 
-
+<br/> <br/> 
 <div align=center><h3>오늘의 활동</h3></div>
 
 ![Metrics](https://raw.githubusercontent.com/illustermin/illustermin/main/metrics.plugin.isocalendar.fullyear.svg)
 
 
+<br/> <br/> 
 <div align=center><h3>Contact</h3></div>
 <p align=center>* If you press it, you'll be connected right away.</p>
 
