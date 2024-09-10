@@ -8,10 +8,17 @@ Welcome to my page!
 I'm developer from Korea
 
 <br/> 
-<div align=center><h3>About me 👋</h3></div>
+<div align=center><h3>👋</h3></div>
   <p align=center>
     안녕하세요 뒹구구르르ㅡ 개발하고 있습니다.
-  <br/>  2022.03-
+  <br/> <div align=center><h4>𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗮𝗰𝘁𝗶𝘃𝗶𝘁𝘆</h4>
+    <br/> 2022.03-
+  
+  
+  
+  
+  
+  </div>
   </p>
 
 <br/> <br/> 
