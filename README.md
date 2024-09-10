@@ -28,7 +28,13 @@ I'm developer from Korea
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
+<br/> <br/> 
+<div align=center><h3>Main Project🌱</h3></div>
+<div align=center> 
 
+
+ 
+</div>
 
 <br/> <br/> 
 <div align=center><h3>오늘의 활동</h3></div>
@@ -37,17 +43,6 @@ I'm developer from Korea
 
 <img src="https://ghchart.rshah.org/illustermin" />
 <Chart src="https://ghchart.rshah.org/33333/illustermin" />
-import GitHubCalendar from 'react-github-calendar';
-
-<GitHubCalendar username="illustermin" />
-
- <GitHubCalendar
-	username={props.githubId}
-	labels={{
-  	      totalCount: "Learn how we count contributions",
- 	      }}
-     	  showWeekdayLabels
-  />
 
 
 
