@@ -9,11 +9,11 @@ I'm developer from Korea
 <br/> 
 <div align=center><h3>About me 👋</h3></div>
   <p align=center>
-    안녕하세요
+    안녕하세요 뒹구구르르ㅡ 개발하고 있습니다.
   </p>
 
 <br/> <br/> 
-<div align=center><h3>Main Stack🌱</h3></div>
+<div align=center><h3>Main Stack👻</h3></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -43,7 +43,7 @@ I'm developer from Korea
 
 
 <br/> <br/> 
-<div align=center><h3>Contact</h3></div>
+<div align=center><h3>Contact📮</h3></div>
 <p align=center>* If you press it, you'll be connected right away.</p>
 
 <span align=center>
