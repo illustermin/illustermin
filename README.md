@@ -4,23 +4,46 @@
 Welcome to my page!
 I'm developer from Korea
 
-## About me 👋
+
+<div align=center><h3>About me 👋</h3></div>
+  <p align=center>
+    안녕하세요
+  </p>
+
+
+
+<div align=center><h3>Main Stack🌱</h3></div>
+<div align=center> 
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> 
+<br>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+<br>
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+</div>
 
 
 
 
-## Stack🌱
+<div align=center><h3>오늘의 활동</h3></div>
 
-
-
-
-
-## 오늘의 활동
 ![Metrics](https://raw.githubusercontent.com/illustermin/illustermin/main/metrics.plugin.isocalendar.fullyear.svg)
 
 
+<div align=center><h3>Contact</h3></div>
+<p align=center>* If you press it, you'll be connected right away.</p>
 
-
+<span align=center>
+    <div align=center>
+  <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> 
+        <a href="https://www.instagram.com/h_min.___/">
+  </a></div>
+</span>
 
 
 
