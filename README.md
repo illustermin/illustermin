@@ -8,25 +8,20 @@ Welcome to my page!
 I'm developer from Korea
 
 <br/> 
-<div align=center><h3>소개👋</h3>
-  <p align="left">
-    <img src="https://blog.kakaocdn.net/dn/cYnypO/btrzcSaVpNa/VwDfLj2yOWZDKpAhZIlYJ1/img.jpg"  width="300" height="300" >
-      <p align="right">
-    안녕하세요 뒹구구르르ㅡ 개발하고 있습니다.
-  <br/> <h4>𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗮𝗰𝘁𝗶𝘃𝗶𝘁𝘆</h4>
-    <br/> 2022.03-
+
+<div align="center">
+  <h3>소개👋</h3>
+  <div style="display: flex; align-items: left;">
+    <img src="https://blog.kakaocdn.net/dn/cYnypO/btrzcSaVpNa/VwDfLj2yOWZDKpAhZIlYJ1/img.jpg" width="300" height="300" style="margin-right: 20px;" />
+    <div style="text-align: right";>
+      <p>안녕하세요, 뒹구구르르ㅡ 개발하고 있습니다.</p>
+      <h4>𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗮𝗰𝘁𝗶𝘃𝗶𝘁𝘆</h4>
+      <p>2022.03-</p>
+    </div>
   </div>
-  </p>
 </div>
 
-
-
-
-
-    
   </p>
-
-
 
 
 
