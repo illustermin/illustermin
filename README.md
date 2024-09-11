@@ -10,20 +10,30 @@ I'm developer from Korea
 <br/> 
 
 <div align="center">
-  <h3>소개👋</h3></div>
+  <h3>소개👋</h3>
 
-
-<div style="display: flex; align-items: center; flex-wrap: nowrap;">
+<div style="overflow: hidden;">
   <!-- 이미지 -->
-  <img src="https://blog.kakaocdn.net/dn/cYnypO/btrzcSaVpNa/VwDfLj2yOWZDKpAhZIlYJ1/img.jpg" width="200" height="200" style="margin-right: 20px;" />
+  <img src="https://blog.kakaocdn.net/dn/cYnypO/btrzcSaVpNa/VwDfLj2yOWZDKpAhZIlYJ1/img.jpg" width="200" height="200" style="float: left; margin-right: 20px;" />
 
   <!-- 글 -->
-  <div style="white-space: nowrap;">
+  <div>
     <p>안녕하세요, 뒹구구르르ㅡ 개발하고 있습니다.</p>
     <h4>𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗮𝗰𝘁𝗶𝘃𝗶𝘁𝘆</h4>
     <p>2022.03-</p>
   </div>
 </div>
+
+
+
+
+
+
+</div>
+
+
+
+
 
 
 
