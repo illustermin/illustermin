@@ -71,7 +71,6 @@ I'm developer from Korea
 
 ![Metrics](https://raw.githubusercontent.com/illustermin/illustermin/main/metrics.plugin.isocalendar.fullyear.svg)
 
-<img src="http://mazandi.herokuapp.com/api?handle={illustermin}&theme=cold"/>
 
 
 <br/> <br/> 
