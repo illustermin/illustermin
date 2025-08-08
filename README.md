@@ -18,7 +18,7 @@ I'm developer from Korea
         <img src="http://9tschool.net/xe/files/attach/images/339611/538/350/bd90bbdc91dba4e0d0343cff03cac18c.gif" width="200" height="auto" />
       </td>
       <td style="padding-left: 20px;">
-        <p>안녕하세요, 뒹구구르르ㅡ 개발하고 있습니다.</p>
+        <p>안녕하세요! 뒹구구르르ㅡ 개발하고 있습니다.</p>
         <h4>𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗮𝗰𝘁𝗶𝘃𝗶𝘁𝘆</h4>
         <p>2022.03-</p>
       </td>
