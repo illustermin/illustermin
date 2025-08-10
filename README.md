@@ -1,13 +1,9 @@
 <br/> <br/> 
-<br/> <br/> 
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Mono+One&size=50&duration=4000&pause=1000&color=000000&center=true&repeat=false&width=1000&height=70&lines=Hello+I'm+Minju)](https://git.io/typing-svg)
-
-<br/> <br/> 
 Welcome to my page!
-I'm developer from Korea
+I'm developer from Korea<br/> 
 
+**코드는 다듬고, 생각은 넓히며, 사람과는 더 가까워지고 싶습니다.**<br/> 
+팀과 소통하며 더 나은 사용자 경험을 만들어가는 프론트엔드 개발자입니다.
 <br/> 
 <div align="center">
   <h3>소개👋</h3>
