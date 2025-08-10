@@ -1,10 +1,12 @@
-<br/> <br/> 
+<br/> 
 Welcome to my page!
-I'm developer from Korea<br/> 
+I'm developer from Korea<br/> <br/> 
+
 
 **코드는 다듬고, 생각은 넓히며, 사람과는 더 가까워지고 싶습니다.**<br/> 
 팀과 소통하며 더 나은 사용자 경험을 만들어가는 프론트엔드 개발자입니다.
-<br/> 
+<br/> <br/> 
+
 <div align="center">
   <h3>소개👋</h3>
 
