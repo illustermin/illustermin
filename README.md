@@ -1,4 +1,3 @@
-<br/>
 
 ## Intro
 I'm a developer from Korea, **Minju Hong**.  
