@@ -1,7 +1,7 @@
 <br/> 
 Welcome to my page!
-I'm a developer from Korea, Hong Minju.
-I strive to write better code, think more openly, and connect more deeply with people.
+I'm a developer from Korea, Hong Minju. <br/> 
+I strive to write better code, think more openly, and connect more deeply with people. <br/> 
 I'm a frontend developer who collaborates closely with teams to build better user experiences.
 <br/> <br/> 
 
