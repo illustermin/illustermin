@@ -18,7 +18,6 @@ I'm a frontend developer who collaborates closely with teams to build better use
       </td>
       <td>
         <p>안녕하세요! 개발하고 있습니다.</p>
-        <h4>𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆</h4>
       </td>
     </tr>
   </table>
